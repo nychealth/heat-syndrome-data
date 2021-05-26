@@ -29,4 +29,4 @@ You can comment on issues and we'll follow up as soon as we can.
 
 ## Communications disclaimer
 
-With regard to GitHub platform communications, staff from the New York City Department of Health & Mental Hygiene are authorized to answer specific questions of a technical nature with regard to this repository. Staff may not disclose private or sensitive data. Any opinions expressed are those of the individual. The opinions are not to be understood as Agency or City policy statements.
+With regard to GitHub platform communications, staff from the New York City Department of Health & Mental Hygiene are authorized to answer specific questions of a technical nature with regard to this repository. Staff may not disclose private or sensitive data.
